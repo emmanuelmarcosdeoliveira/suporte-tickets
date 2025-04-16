@@ -1,0 +1,13 @@
+{
+  "name": "suporte-tickets",
+  "version": "1.0.0",
+  "description": "API de gerenciamento suporte, através de criação de tickets",
+  "main": " src/server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "author": "Emmanuel Oliveira",
+  "license": "MIT",
+  "packageManager": "pnpm@10.8.0"
+}
