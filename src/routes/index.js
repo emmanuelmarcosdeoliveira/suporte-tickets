@@ -1,3 +1,3 @@
-import { tickets } from "./tickets";
+import { tickets } from "./tickets.js";
 
-export const route = [...tickets];
+export const routes = [...tickets];
