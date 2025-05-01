@@ -11,12 +11,21 @@
     },
     {
       "id": "f4b94557-d93a-4899-b3c9-57f8134a3c38",
-      "equipment": "teclado",
-      "description": "tecla de espaço não funciona",
+      "equipment": "Head Fone",
+      "description": "não liga",
       "user_name": "João Oliveira",
-      "status": "open",
+      "status": "closed",
       "create_at": "2025-04-22T17:34:34.562Z",
-      "update_at": "2025-04-22T17:34:34.562Z"
+      "update_at": "2025-05-01T13:36:46.747Z"
+    },
+    {
+      "id": "faf0acaf-0596-4aa2-b683-39035775580b",
+      "equipment": "Monitor",
+      "description": "Monitor desliga sozinho",
+      "user_name": "OliveiraFullStack",
+      "status": "open",
+      "create_at": "2025-05-01T14:45:45.131Z",
+      "update_at": "2025-05-01T14:45:45.131Z"
     }
   ]
 }
