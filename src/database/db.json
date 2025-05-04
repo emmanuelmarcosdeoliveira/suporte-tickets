@@ -1,31 +1,14 @@
 {
   "tickets": [
     {
-      "id": "260e8fb4-68fe-4c41-b52f-8cbfaaafaf6f",
-      "equipment": "computador",
-      "description": "Computador nào liga",
-      "user_name": "Emmanuel Oliveira",
+      "id": "81c2f414-5123-457a-a3d1-2db16586474c",
+      "equipment": "Caixa de Som",
+      "description": "Não esta reproduzindo o som ",
+      "user_name": "Emmanuel Marcos",
       "status": "closed",
-      "create_at": "2025-04-21T20:25:00.539Z",
-      "update_at": "2025-04-21T20:25:00.539Z"
-    },
-    {
-      "id": "f4b94557-d93a-4899-b3c9-57f8134a3c38",
-      "equipment": "Head Fone",
-      "description": "não liga",
-      "user_name": "João Oliveira",
-      "status": "closed",
-      "create_at": "2025-04-22T17:34:34.562Z",
-      "update_at": "2025-05-01T13:36:46.747Z"
-    },
-    {
-      "id": "faf0acaf-0596-4aa2-b683-39035775580b",
-      "equipment": "Monitor",
-      "description": "Monitor desliga sozinho",
-      "user_name": "OliveiraFullStack",
-      "status": "open",
-      "create_at": "2025-05-01T14:45:45.131Z",
-      "update_at": "2025-05-01T14:45:45.131Z"
+      "create_at": "2025-05-03T20:13:00.240Z",
+      "update_at": "2025-05-03T20:13:00.240Z",
+      "solution": "Foi reinstalado os Driver de som do hardware e o equipamento voltou a funcionar"
     }
   ]
 }
