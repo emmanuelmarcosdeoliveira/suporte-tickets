@@ -1,0 +1,14 @@
+{
+  "tickets": [
+    {
+      "id": "81c2f414-5123-457a-a3d1-2db16586474c",
+      "equipment": "Caixa de Som",
+      "description": "Não esta reproduzindo o som ",
+      "user_name": "Emmanuel Marcos",
+      "status": "closed",
+      "create_at": "2025-05-03T20:13:00.240Z",
+      "update_at": "2025-05-03T20:13:00.240Z",
+      "solution": "Foi reinstalado os Driver de som do hardware e o equipamento voltou a funcionar"
+    }
+  ]
+}
